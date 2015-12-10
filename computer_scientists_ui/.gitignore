@@ -33,3 +33,6 @@ test*
 *.pro.user
 *.pro.user.*
 *.autosave
+build*
+*/*
+

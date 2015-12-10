@@ -14,8 +14,12 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        mainwindow.cpp
+        mainwindow.cpp \
+    repository.cpp \
+    scientist_service.cpp
 
-HEADERS  += mainwindow.h
+HEADERS  += mainwindow.h \
+    repository.h \
+    scientist_service.h
 
 FORMS    += mainwindow.ui
