@@ -2,7 +2,7 @@
 
 #### Source code
 
-	https://github.com/2015-VLN1-Group-44/ComputerScientists
+	https://github.com/2015-VLN1-Group-44/ComputerScientists_UI
 
 #### Tools
 
