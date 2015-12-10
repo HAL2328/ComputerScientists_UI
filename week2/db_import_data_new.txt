@@ -1,0 +1,38 @@
+﻿Charles;Babbage;1791-12-26;1871-10-18;1					
+Edsger W.;Dijkstra;1930-05-11;2002-08-06;1					
+Adele;Goldberg;1945-07-07;0.0.0;0					
+Margaret Heafield;Hamilton;1936-08-17;0.0.0;0					
+Grace Brewster Murray;Hopper;1906-12-09;1992-01-01;0					
+Ada;Lovelace;1815-12-10;1852-11-27;0					
+Bjarne;Stroustrup;1950-12-30;0.0.0;1			
+Linus Benedict;Torvalds;1969-12-28;0.0.0;1					
+Alan;Turing;1912-06-23;1954-06-07;1					
+Scott;Aaronson;1981-05-21;0.0.0;1					
+Hal;Abelson;1947-04-26;0.0.0;1					
+Serge;Abiteboul;1953-08-25;0.0.0;1					
+Samson;Abramsky;1953-03-12;0.0.0;1					
+Leonard;Adleman;1945-12-31;0.0.0;1					
+Alfred;Aho;1941-08-09;0.0.0;1					
+Frances;Allen;1932-08-04;0.0.0;0					
+Gene;Amdahl;1922-11-16;2015-11-10;1					
+John Vincent;Atanasoff;1903-10-04;1995-06-15;1					
+Anita;Borg;1949-01-17;2003-04-06;0					
+Charles;Bachman;1924-12-11;0.0.0;1					
+Roland Carl;Backhouse;1948-08-18;0.0.0;1					
+John;Backus;1924-12-03;2007-03-17;1					
+David;Bader;1969-05-04;0.0.0;1					
+Jean;Bartik;1924-12-27;2011-03-23;0					
+Sir Timothy John;Berners-Lee;1955-06-08;0.0.0;1					
+Daniel J.;Bernstein;1971-10-29;0.0.0;1					
+Dines;Bjørner;1937-10-04;0.0.0;1					
+Gerrit;Blaauw;1924-07-17;0.0.0;1					
+Manuel;Blum;1938-04-26;0.0.0;1					
+Corrado;Böhm;1923-01-17;0.0.0;1					
+Grady;Booch;1955-02-27;0.0.0;1					
+George;Boole;1815-11-02;1864-12-08;1					
+Stephen R.;Bourne;1944-01-07;0.0.0;1					
+Jack Elton;Bresenham;1937-10-11;0.0.0;1					
+Sergey Mikhaylovich;Brin;1973-08-21;0.0.0;1					
+Per Brinch;Hansen;1938-11-13;2007-07-31;1					
+Sjaak;Brinkkemper;1958-01-18;0.0.0;1					
+Mark;Zuckerberg;1984-05-14;0.0.0;1					
